@@ -25,8 +25,8 @@ CoffeeDev.me is a platform that aims to enrich your Saturdays with insightful ar
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [License](LICENSE)
 - [Security Policy](SECURITY.md)
-- [Feedback Repository](https:github.com/CoffeeDevme/FeedBack)
-- [Discussion Repository](https:github.com/CoffeeDevme/Discussion)
+- [Feedback Repository](https:github.com/CoffeeDev-Me/FeedBack)
+- [Discussion Repository](https:github.com/CoffeeDev-Me/Discussion)
 
 ## Features
 
@@ -47,8 +47,8 @@ We love contributions from the community! If you'd like to contribute to CoffeeD
 
 We appreciate your feedback and encourage you to participate in discussions about the newsletter. Please use the following repositories for different purposes:
 
-- **Feedback Repository:** [FeedBack](https:github.com/CoffeeDevme/FeedBack)
-- **Discussion Repository:** [Discussion](https:github.com/CoffeeDevme/Discussion)
+- **Feedback Repository:** [FeedBack](https:github.com/CoffeeDev-Me/FeedBack)
+- **Discussion Repository:** [Discussion](https:github.com/CoffeeDev-Me/Discussion)
 
 ## Security
 
