@@ -1,4 +1,4 @@
-# WebLanding - CoffeeDev.me ☕️🚀
+# WebLanding - CoffeeDev.me ☕️🚀 
 
 <div align="center">
   <img src="./img/Logo.png" alt="CoffeeDev.me Logo">
@@ -8,6 +8,7 @@
 Transform Your Saturdays: Ignite Your Morning Ritual with Coffee and Progress ☕️🚀
 
 ---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/123b7ec9-57bd-4a58-95c4-e8c31225a57a/deploy-status)](https://app.netlify.com/sites/coffeedevme/deploys)
 
 Welcome to CoffeeDev.me, a website dedicated to our coffee-fueled newsletter that brings you the latest developments in the world of technology and software development, all while enjoying your favorite cup of coffee. We believe in the power of combining the love for coffee with the excitement of technological progress.
 
