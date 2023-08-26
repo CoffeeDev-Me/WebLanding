@@ -1,0 +1,44 @@
+# This is a robots.txt file for the CoffeeDev website.
+# Dear robot, please have a coffee and enjoy your stay!
+
+
+User-agent: *
+
+Disallow: /index          
+Disallow: /ThankYou   
+Disallow: /confirm      
+Disallow: /404         
+Disallow: /under-construction
+Allow: /sitemap      
+Allow: /robots.txt 
+
+User-agent: ByteDance
+Disallow: /
+
+Sitemap: https://www.coffeedev.me/sitemap.xml
+
+
+
+
+
+
+
+
+
+
+
+
+#              ________
+#   __,_,     | ahhh   |
+#  [_|_/      | Yes    |
+#    //       | Coffee |
+#   //        |________|
+# _//    __  /
+#(_|)   |@@|
+# \ \__ \--/ __
+#  \o__|----|  |   __
+#      \ }{ /\ )_ / _\
+#      /\__/\ \__O (__
+#     (--/\--)    \__/
+#     _)(  )(_
+#    `---''---`
